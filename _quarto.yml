@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "danikotter"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: About
+        file: content/about/index.qmd
+      - text: CV
+        menu: 
+          - text: Curricilum Vitae
+            file: /www/cv.pdf
+            target: _blank
+          - text: LinkedIn
+            href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
+    right:
+      - icon: github
+        href: https://github.com/danielle-kotter
+      - icon: linkedin
+        href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
+    search: true
+
+  page-footer:
+    left: >-
+      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/) 
+      © 2024, Daniëlle Kotter
+    right:
+      - icon: house
+        href: https://www.patalt.org/
+      - icon: github
+        href: https://github.com/danielle-kotter
+      - icon: linkedin
+        href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+

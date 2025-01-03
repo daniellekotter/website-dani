@@ -1,0 +1,4 @@
+/* css styles */
+/*-- scss:defaults --*/
+
+$navbar-bg: lighten($primary, 50%);

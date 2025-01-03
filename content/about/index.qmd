@@ -1,0 +1,16 @@
+---
+title: "Daniëlle Kotter"
+about: 
+    template: trestles
+    image-shape: round
+    image: profile.png
+    links:
+      - icon: github
+        href: https://github.com/danielle-kotter
+      - icon: linkedin
+        href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
+---
+
+{{< include biography.qmd >}}
+
+{{< include contact.qmd >}}

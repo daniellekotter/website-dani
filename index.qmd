@@ -1,0 +1,7 @@
+---
+title: "Hello!"
+---
+
+As a Senior Data Engineer, I thrive to continue learning and develop skills I find intriguing and is relevant to the profession. As a sidequest, I have made this website as a reference point to my experiences and contact information.
+
+Check out my [GitHub](https://github.com/danielle-kotter) for more projects like this.

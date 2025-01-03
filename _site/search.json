@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "As a Senior Data Engineer, I thrive to continue learning and develop skills I find intriguing and is relevant to the profession. As a sidequest, I have made this website as a reference point to my experiences and contact information.\nCheck out my GitHub for more projects like this."
+  },
+  {
+    "objectID": "content/about/index.html",
+    "href": "content/about/index.html",
+    "title": "Daniëlle Kotter",
+    "section": "",
+    "text": "BLABLA I am amazing.\n📄 Resume: [detailed]"
+  },
+  {
+    "objectID": "content/about/index.html#contact",
+    "href": "content/about/index.html#contact",
+    "title": "Daniëlle Kotter",
+    "section": "Contact",
+    "text": "Contact\nDon’t call me."
+  },
+  {
+    "objectID": "content/about/contact.html",
+    "href": "content/about/contact.html",
+    "title": "danikotter",
+    "section": "",
+    "text": "Don’t call me."
+  },
+  {
+    "objectID": "content/about/contact.html#contact",
+    "href": "content/about/contact.html#contact",
+    "title": "danikotter",
+    "section": "",
+    "text": "Don’t call me."
+  },
+  {
+    "objectID": "content/about/biography.html",
+    "href": "content/about/biography.html",
+    "title": "danikotter",
+    "section": "",
+    "text": "Biography\nBLABLA I am amazing.\n📄 Resume: [detailed]"
+  }
+]
