@@ -1,11 +1,24 @@
 /*-- scss:defaults --*/
-$dani-blue: #87CEEB;
+// Base document colors
+$dani-lightblue: #87CEEB;
 $dani-orange: #FFC300;
+$dani-green: #45503b;
+$dani-red: #f6511d;
+$dani-blue: #0d2c54;
+$dani-grey: #747572;
 $primary: $dani-orange;
-$body-bg: lighten($primary, 60%);
-$body-color: darken($primary, 50%);
-$navbar-bg: lighten($primary, 50%);
 
+// Override Bootstrap link color
+$link-color: $dani-blue;
+$link-hover-color: darken($dani-blue, 15%);
+
+// Navbar
+$navbar-bg: lighten($primary, 10%);
 
 // Footer
-$footer-bg: lighten($primary, 50%);
+$footer-bg: lighten($dani-blue, 30%);
+
+/*-- scss:rules --*/
+.navbar {
+    background-color: $navbar-bg !important;
+}

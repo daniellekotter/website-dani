@@ -1,9 +1,9 @@
 ---
 title: "Daniëlle Kotter"
 about: 
-    template: trestles
+    template: solana
     image-shape: round
-    image: /www/images/profile.png
+    image: /www/images/profile.jpg
     links:
       - icon: github
         href: https://github.com/danielle-kotter
