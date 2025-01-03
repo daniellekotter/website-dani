@@ -7,7 +7,6 @@ project:
 
 website:
   title: "KotterCode"
-  image: /www/images/logo.png
   favicon: /www/images/icon.png
   repo-url: https://daniellekotter.github.io/website-dani/
   navbar:

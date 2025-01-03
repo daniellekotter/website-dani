@@ -3,7 +3,7 @@ title: "Daniëlle Kotter"
 about: 
     template: solana
     image-shape: round
-    image: /www/images/profile.jpg
+    image: ././www/images/profile.jpg
     links:
       - icon: github
         href: https://github.com/danielle-kotter
