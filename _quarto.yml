@@ -8,7 +8,7 @@ project:
 website:
   title: "KotterCode"
   image: /www/images/logo.png
-  favicon: /www/images/logo.png
+  favicon: /www/images/icon.png
   repo-url: https://daniellekotter.github.io/website-dani/
   navbar:
     logo: /www/images/logo.png
@@ -44,9 +44,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [flatly, theme.scss]
-      dark: darkly
+    theme: [flatly, theme.scss]
     css:
       - styles.css
     toc: true

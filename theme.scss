@@ -1,29 +1,51 @@
 /*-- scss:defaults --*/
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Oswald:wght@300;400;500&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
 // Base document colors
 $dani-lightblue: #87CEEB;
 $dani-orange: #FFC300;
 $dani-green: #45503b;
 $dani-red: #f6511d;
-$dani-blue: #0d2c54;
+$secondary: #0d2c54;
 $dani-grey: #747572;
 $primary: $dani-orange;
+$secondary: $secondary;
 
 // Override Bootstrap link color
-$link-color: $dani-blue;
-$link-hover-color: darken($dani-blue, 15%);
+$link-color: $secondary;
+$link-hover-color: darken($secondary, 15%);
 
 // Navbar
 $navbar-bg: lighten($primary, 10%);
 
 // Footer
-$footer-bg: lighten($dani-blue, 30%);
+$footer-bg: lighten($secondary, 30%);
+
+#quarto-content {
+  background-color: #f0eeeb;
+  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'Oswald', sans-serif;
+  color: black;
+}
 
 /*-- scss:rules --*/
 .navbar {
     background-color: $navbar-bg !important;
 }
 
-.navbar-logo {
-    max-height: 100px;
-    padding-right: 20px;
+.navbar-title {
+    color: $secondary;
+    font-size: 2em;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.dropdown-item {
+    background-color: lighten($primary, 10%);
+    color: black;
+}
+
+.dropdown-item:hover {
+    background-color: $secondary;
+    color: white;
 }
