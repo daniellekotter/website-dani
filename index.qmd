@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "Welcome!"
 toc: false
 ---
-
-# Hello!
 
 As a Senior Data Engineer, I am passionate about continuous learning and developing skills that are both intriguing and relevant to my profession. This website serves as a reference point for my experiences and contact information.
 
