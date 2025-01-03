@@ -3,7 +3,7 @@ title: "Daniëlle Kotter"
 about: 
     template: trestles
     image-shape: round
-    image: profile.png
+    image: /www/images/profile.png
     links:
       - icon: github
         href: https://github.com/danielle-kotter
