@@ -22,3 +22,8 @@ $footer-bg: lighten($dani-blue, 30%);
 .navbar {
     background-color: $navbar-bg !important;
 }
+
+.navbar-logo {
+    max-height: 100px;
+    padding-right: 20px;
+}

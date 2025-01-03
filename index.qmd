@@ -5,3 +5,5 @@ title: "Hello!"
 As a Senior Data Engineer, I am passionate about continuous learning and developing skills that are both intriguing and relevant to my profession. This website serves as a reference point for my experiences and contact information.
 
 Feel free to explore my [GitHub](https://github.com/danielle-kotter) for more projects like this.
+
+{{< include content/about/contact.qmd >}}

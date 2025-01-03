@@ -8,6 +8,7 @@ project:
 website:
   title: "KotterCode"
   navbar:
+    logo: /www/images/logo.png
     left:
       - text: "Home"
         href: index.qmd
@@ -33,7 +34,7 @@ website:
       © 2024, Daniëlle Kotter
     right:
       - icon: house
-        href: https://www.patalt.org/
+        href: https://daniellekotter.github.io/website-dani
       - icon: github
         href: https://github.com/danielle-kotter
       - icon: linkedin
@@ -43,7 +44,7 @@ format:
   html:
     theme:
       light: [flatly, theme.scss]
-      dark: [darkly]
+      dark: darkly
     css:
       - styles.css
     toc: true
