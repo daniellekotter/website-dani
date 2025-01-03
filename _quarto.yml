@@ -7,9 +7,13 @@ project:
 
 website:
   title: "KotterCode"
+  image: /www/images/logo.png
+  favicon: /www/images/logo.png
+  repo-url: https://daniellekotter.github.io/website-dani/
   navbar:
     logo: /www/images/logo.png
-    left:
+    toggle-position: right
+    right:
       - text: "Home"
         href: index.qmd
       - text: About
@@ -21,12 +25,10 @@ website:
             target: _blank
           - text: LinkedIn
             href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
-    right:
-      - icon: github
-        href: https://github.com/danielle-kotter
-      - icon: linkedin
-        href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
     search: true
+  
+  page-navigation: true
+  back-to-top-navigation: false
 
   page-footer:
     left: >-
@@ -48,6 +50,10 @@ format:
     css:
       - styles.css
     toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 
 execute:
   freeze: auto
