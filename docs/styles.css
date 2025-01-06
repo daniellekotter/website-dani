@@ -18,10 +18,16 @@ body {
 
 .navbar-logo {
     margin-top: 0px;
-    padding-right: 16px;
     max-height: 32px;
     width: auto;
     align-items: baseline;
+}
+
+
+@media (max-width: 550.98px) {
+    .navbar-logo {
+        padding-right: 45px;
+    }
 }
 
 #quarto-header {
