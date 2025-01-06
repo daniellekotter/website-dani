@@ -1,5 +1,7 @@
 ### Biography
 
-Intro to me.
+I started my career in hospitality at [Hotelschool The Hague](https://www.hotelschool.nl/?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNo_VF0N3ViVXWiTmZZ7rkCzP1xWnqbsktC0f6Rr08u988xV8mOspwhoCbLAQAvD_BwE), where I developed a strong foundation in delivering exceptional guest experiences and understanding the ins-and-outs of managing a business. This path gave me the chance to live and work in several countries.
 
-📄 **Resume**: [[detailed](/www/cv.pdf){target="_blank"}]
+Over time, my interest in driving informed decision making led me to pursue a Master's in Business Analytics at [UPF School of Management](https://www.bsm.upf.edu/en/about-us#aboutus). Today, I’m a Senior Data Engineer with a focus on data integration, API development and automating data validation tools. At [PALLAS](https://www.pallasreactor.com/), I lead a talented team of developers, working closely with contractors and stakeholders to streamline workflows and deliver projects that make a real impact.
+
+Outside of work, I’m always looking for opportunities to learn something new (like building this website), explore innovative tools, or dive into projects that push me outside my comfort zone.

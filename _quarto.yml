@@ -7,8 +7,11 @@ project:
 
 website:
   title: "KotterCode"
-  favicon: /www/images/icon.png
+  favicon: /www/images/logo.png
   repo-url: https://daniellekotter.github.io/website-dani/
+  search:
+    location: navbar
+    type: overlay
   navbar:
     logo: /www/images/logo.png
     toggle-position: right
@@ -24,7 +27,6 @@ website:
             target: _blank
           - text: LinkedIn
             href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
-    search: true
   
   page-navigation: true
   back-to-top-navigation: false
@@ -40,6 +42,9 @@ website:
         href: https://github.com/danielle-kotter
       - icon: linkedin
         href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
+
+language: 
+  search-text-placeholder: Search
 
 format:
   html:

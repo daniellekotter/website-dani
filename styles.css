@@ -1,7 +1,7 @@
 /* css styles */
 
 body {
-    font-family: "Montserrat"
+    font-family: "Montserrat";
 }
 
 .navbar {
@@ -11,20 +11,15 @@ body {
     font-size: 1.4em;
 }
 
-@media (max-width: 991px) {
-    .navbar-nav-scroll {
-        background: black;
-    }
-}
-
 .navbar-brand {
     padding-top: 0px;
     padding-bottom: 0px;
 }
 
 .navbar-logo {
-    max-height: 100px;
-    padding-right: 20px;
+    margin-top: 0px;
+    max-height: 32px;
+    padding-right: 7px;
     width: auto;
     align-items: baseline;
 }
@@ -52,12 +47,10 @@ body {
     margin-top: -1px;
     margin-bottom: 1.8em;
     border-bottom: 1px solid black;
-    background-color: #f0eeeb;
 }
 
 .quarto-title-banner {
     margin-bottom: 0.75em;
-    color: black;
 }
 
 .quarto-title-banner a {
