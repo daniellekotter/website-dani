@@ -21,7 +21,7 @@ website:
       - text: About
         file: content/about/index.qmd
       - text: CV
-        menu: 
+        menu:
           - text: Curricilum Vitae
             file: /www/cv.pdf
             target: _blank
@@ -39,7 +39,7 @@ website:
       - icon: house
         href: https://daniellekotter.github.io/website-dani
       - icon: github
-        href: https://github.com/danielle-kotter
+        href: https://github.com/daniellekotter
       - icon: linkedin
         href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
 

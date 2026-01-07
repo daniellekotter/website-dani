@@ -7,7 +7,7 @@ about:
     image-width: 20em
     links:
       - icon: github
-        href: https://github.com/danielle-kotter
+        href: https://github.com/daniellekotter
       - icon: linkedin
         href: https://nl.linkedin.com/in/dani%C3%ABlle-kotter
 ---
